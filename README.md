@@ -1,7 +1,7 @@
 # 8BitDo R8 for Linux
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)](Cargo.toml)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE)
 [![Built for](https://img.shields.io/badge/BUILT%20FOR-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://kernel.org/)
 [![Tested on](https://img.shields.io/badge/TESTED%20ON-Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org/)
 [![Language](https://img.shields.io/badge/LANG-Rust-dea584?style=flat-square&logo=rust&logoColor=black)](https://www.rust-lang.org/)
