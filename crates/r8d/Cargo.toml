@@ -1,0 +1,18 @@
+[package]
+name = "r8d"
+version.workspace = true
+edition.workspace = true
+description = "8BitDo R8 software remapper daemon"
+
+[[bin]]
+name = "r8d"
+path = "src/main.rs"
+
+[dependencies]
+r8-core = { workspace = true }
+anyhow = { workspace = true }
+clap = { workspace = true }
+evdev = "0.12"
+ctrlc = "3"
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
